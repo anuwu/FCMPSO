@@ -2,6 +2,6 @@
 
 Supplementary text and data for the ICONIP 2022 submission.
 
-The `data` folder contains the experimental results on all multi-objective functions.
+The `supp.pdf` file is the supplementary file to the main text.
 
-The `tex` folder contains the latex source code of the supplementary files.
+The `data` folder contains the experimental results on all multi-objective functions.
